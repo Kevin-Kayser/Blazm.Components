@@ -248,7 +248,7 @@ To add a column that is not connected to any field (like command buttons for exa
 
 ### Export to Excel
 
-The build-in support for exporting data to Excel will not us templated columns (it will render the value not the template).
+The build-in support for exporting data to Excel will not use templated columns (it will render the value not the template).
 All columns will be exported by default.
 Add ```Exportable=false``` to exclude columns from the export.
 
